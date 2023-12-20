@@ -1,0 +1,14 @@
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\bin\Debug\net6.0\AtividadeLambda.exe
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\bin\Debug\net6.0\AtividadeLambda.deps.json
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\bin\Debug\net6.0\AtividadeLambda.runtimeconfig.json
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\bin\Debug\net6.0\AtividadeLambda.dll
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\bin\Debug\net6.0\AtividadeLambda.pdb
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.AssemblyInfoInputs.cache
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.AssemblyInfo.cs
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.csproj.CoreCompileInputs.cache
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.dll
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\refint\AtividadeLambda.dll
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.pdb
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\AtividadeLambda.genruntimeconfig.cache
+C:\Users\frodrigues\source\repos\C#\AtividadeLambda\AtividadeLambda\obj\Debug\net6.0\ref\AtividadeLambda.dll
